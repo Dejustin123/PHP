@@ -1,0 +1,56 @@
+body {
+	background-color: gray;
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	background-color: white;
+	width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 70px;
+	height: 100%;
+}
+
+.header h1 {
+	margin: 0;
+	padding: 20px;
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+.video{
+	margin: 40px;
+	width: 0 auto;
+	height: auto;
+}
+
+nav ul li a {
+	text-decoration: none;
+}
+
+nav ul li a:hover {
+	text-decoration: underline;
+}
+
+img {
+	width: 200px;
+	margin-top: 10px;
+	margin-right: 20px;
+	padding: 5px;
+	float: left;
+}
+
+iframe {
+	float: left;
+}
+
+.planning {
+	margin: 50px auto;
+	padding: 20px;
+	width: auto;
+	height: auto;
+}
